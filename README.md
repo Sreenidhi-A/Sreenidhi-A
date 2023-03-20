@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at **nidhi.appalabatla@gmail.com**
 
-- 📄 More about me [linktr.ee/shanmukha_priya_sreenidhi](https://linktr.ee/admin)
+- 📄 More about me [linktr.ee/shanmukha_priya_sreenidhi](https://linktr.ee/shanmukha_priya_sreenidhi)
 
 
 <h3 align="left">Connect with me:</h3>
