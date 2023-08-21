@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning **Full-Stack**
 
-- 💬 What I know **Python, R, Html, CSS, JS**
+- 💬 What I know **Python - ML & DL Algorithms, R, Html, CSS, JS, C**
 
 - 📫 You can reach me at **nidhi.appalabatla@gmail.com**
 
